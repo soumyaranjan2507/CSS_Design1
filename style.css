@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    height :100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    font-size: 100px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: transparent;
+    background:url(https://www.themagazine.org/wp-content/uploads/2021/09/different-types-of-software-coderus-branded-image-1920x9999-1.jpg) no-repeat center;
+    background-size: cover;
+    background-clip: text;
+    text-align: center;
+}
